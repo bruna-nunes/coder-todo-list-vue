@@ -21,6 +21,7 @@
 - Exibição de lista de tarefas (concluídas e não concluídas)
 - Opção de marcar uma tarefa como concluída ou pendente
 - Visualização de porcentagem de tarefas concluídas dentro da lista total de tarefas
+- Uso do LocalStorage: as tarefas ficam salvas quando o navegador for fechado.
 
 
 ---
